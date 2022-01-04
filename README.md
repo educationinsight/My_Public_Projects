@@ -1,4 +1,4 @@
-# Harvard Shared Public Repository
+# My_Public_Projects
 ## Directories and Files
 ### Data Files
 * data/CubsWhiteSox/ - directory with data files used in The Attendance vs Performance project for Chicago Cubs and Chicago White Sox
